@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/douglasbaltazar">
-<img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=douglasbaltazar&layout=compact&theme=react'>
+<img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=douglasbaltazar&layout=compact&theme=dark'>
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasbaltazar&theme=dark&hide_border=true"/>
   </a>
 </div>
