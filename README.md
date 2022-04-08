@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/douglasbaltazar">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglasbaltazar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=douglasbaltazar&layout=compact&theme=react'>
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasbaltazar&theme=dark&hide_border=true"/>
   </a>
 </div>
@@ -44,3 +44,7 @@ Some technologies that i love and work/worked with:
 <div align="center">
   <a href="https://www.linkedin.com/in/douglasbaltazar1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<p align="center">
+    <a href="https://github.com/douglasbaltazar" target="_blank"><img alt="henriquedantass" src="https://badges.pufler.dev/visits/douglasbaltazar/douglasbaltazar?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
+</p>
