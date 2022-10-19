@@ -44,7 +44,3 @@ Some technologies that i love and work/worked with:
 <div align="center">
   <a href="https://www.linkedin.com/in/douglasbaltazar1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-<p align="center">
-    <a href="https://github.com/douglasbaltazar" target="_blank"><img alt="henriquedantass" src="https://badges.pufler.dev/visits/douglasbaltazar/douglasbaltazar?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
-</p>
