@@ -1,5 +1,6 @@
-### Fala galerinhaaaaa 👋
-My name is Douglas and I am from Brazil. 
+[![LinkedIn](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=5147FF&center=true&vCenter=true&multiline=true&width=1000&height=110&lines=Fala+Galerinha;My+name+is+Douglas+and+I+am+from+Brazil.+;Welcome+to+my+GitHub+Page.)](https://www.linkedin.com/in/douglasbaltazar1/)
+
+
 
 I am currently building and breaking software remotely for [Ellotech](http://www.ellotech.com.br).
 
